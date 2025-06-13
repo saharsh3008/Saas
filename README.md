@@ -1,4 +1,4 @@
-# 🧠 AI SaaS Platform
+# 🧠 ImagioAI
 
 A powerful AI Software-as-a-Service (SaaS) platform that enables users to leverage various AI tools like text generation, image generation, audio processing, and more—all from one seamless interface.
 
